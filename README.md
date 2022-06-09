@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kingvictorr
-- 👀 I’m interested in changing projects.
+- 👀 I’m interested in challenging projects.
 - 🌱 I’m currently learning python, nodejs, react, and stenciljs
 - 💞️ I’m looking to collaborate on backend, frontend and embedded projects
 - 📫 How to reach me https://twitter.com/kingvictorr
